@@ -1,0 +1,9 @@
+# python environment
+.venv/
+
+# data is big and can be downloaded again
+data/
+
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
